@@ -1,0 +1,1 @@
+package com.example.producer; public class ProducerApp { public static void main(String[] args) {} }
